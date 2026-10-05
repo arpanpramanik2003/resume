@@ -1,3 +1,3 @@
 # Arpan Pramanik – Resume
 Full-Stack Developer & AI/ML Enthusiast  
-🔗 https://arpanpramanik.dev
+🔗 https://arpanpramanik.tech
